@@ -1,0 +1,53 @@
+body{background-color:  rgb(62, 117, 83) }
+h1
+{
+font-family: 'Abril Fatface', cursive;
+color:  #b84a76;
+font-size : 3.2em;
+}
+
+article{
+    margin-top: 60%;
+}
+
+header{
+    margin-top: 20%;
+}
+nav
+{
+   display: flex ;
+   justify-content: center;
+}
+nav img{
+ width: 60%;15%
+}
+nav ul{
+    padding:  0px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin: 0 10px;
+    text-transform: uppercase;
+    font-size: 0.66em;
+    font-weight: 600;
+    color: #2c131d;
+}
+
+main-button{
+    padding: 15px;
+    color:  rgb(153, 108, 12) ;
+    font-size: 0.7em;
+    font-weight: 800;
+    border-radius: 7px;
+}
+
+hire-button{
+    padding: 15px;
+    color:  rgb(153, 12, 31) ;
+    font-size: 0.7em;
+    font-weight: 800;
+    border-radius: 7px;
+}
+

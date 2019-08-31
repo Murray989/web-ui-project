@@ -1,0 +1,35 @@
+body {
+  
+}
+
+code {
+  
+}
+
+.b{
+  border: 1px solid red;
+}
+
+.content{
+  margin: 15px auto;
+}
+
+.center-component{
+  margin: 0 auto;
+  text-align: left;
+}
+
+.btn-margin{
+  margin-top: 10px;
+}
+
+.logo{
+  width: 60px;
+  margin: 0 20px;
+}
+
+.foto{
+  width: 30px;
+  margin: 10 px;
+  align-self: center;
+}
